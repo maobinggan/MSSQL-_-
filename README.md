@@ -5,3 +5,6 @@
 数据库连接字符串位于app.config中,需按照连接字符串配置数据库。
 ## GUI界面：C# Windowsform
 使用了第三方UI库，如果报错，尝试还原至未使用UI库的版本。
+
+## 效果图：
+![image](https://github.com/maobinggan/StudentManagementSystem/assets/33706428/b105a91f-8f3f-4ea4-9555-a27f8cb23896)
